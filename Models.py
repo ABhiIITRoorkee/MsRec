@@ -3,7 +3,7 @@ import torch.nn as nn
 import torch.sparse as sparse
 import torch.nn.functional as F
 
-class HCF(nn.Module):
+class MsRec(nn.Module):
     def __init__(self, n_users, n_items, embedding_dim, layer_num, dropout_list, scale_weights=None):
         super().__init__()
         self.n_users = n_users
