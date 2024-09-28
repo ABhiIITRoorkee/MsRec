@@ -22,7 +22,7 @@ MsRec is a novel Multi-Scale Hyper Graph Neural Network recommending third-party
 
 ### Prerequisites
 
-To run MS-HGNN, you need to have the following installed:
+To run MsRec, you need to have the following installed:
 
 - Python 3.7+
 - PyTorch 1.3.1+
@@ -34,4 +34,4 @@ To run MS-HGNN, you need to have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/ABhiIITRoorkee/MS-HGNN.git
+   git clone https://github.com/ABhiIITRoorkee/MsRec.git
